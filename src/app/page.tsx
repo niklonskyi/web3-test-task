@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <div className="min-h-screen w-full flex flex-col items-center p-6 gap-6">
       <header className="w-full max-w-3xl flex items-center justify-between">
-        <h1 className="text-xl font-semibold">Niklolnskyi dApp</h1>
+        <h1 className="text-xl font-semibold">Niklonskyi dApp</h1>
         <WalletConnect />
       </header>
       <main className="w-full max-w-3xl grid grid-cols-1 md:grid-cols-2 gap-6">
